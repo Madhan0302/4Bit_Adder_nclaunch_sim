@@ -183,6 +183,10 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ![image](https://github.com/user-attachments/assets/bebdc872-fa60-4605-b60f-939eba870f04)
 
+###Result
+The functionality of a 4-bit adder was successfully verified using a test bench and
+simulated with the nclaunch tool.
+
 
 
 
